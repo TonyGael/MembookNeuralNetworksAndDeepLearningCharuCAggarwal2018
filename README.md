@@ -1,7 +1,7 @@
 ***
 # Redes Neuronales y Aprendizaje Profundo. Membook de conceptos
 
-*Por [Tony Gael]((https://www.youtube.com/@MisionesAI)) - Agosto 2025*
+*Por [Tony Gael](https://www.youtube.com/@MisionesAI) - Agosto 2025*
 
 *Basado en el libro: [Neural Networks And Deep Learning de Charu C. Aggarwall.](https://www.charuaggarwal.net/neural.htm)*
 
