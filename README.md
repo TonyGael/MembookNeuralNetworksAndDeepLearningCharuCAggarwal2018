@@ -3,6 +3,8 @@
 
 *Por [Tony Gael](https://www.youtube.com/@MisionesAI) - Agosto 2025*
 
+*[En YouTube](https://www.youtube.com/@MisionesAI)*
+
 *Basado en el libro: [Neural Networks And Deep Learning de Charu C. Aggarwall.](https://www.charuaggarwal.net/neural.htm)*
 
 *Notebook LM de Google con el material: [Membook: Neural Networks And Deep Learning de Charu C. Aggarwal ed. 2018](https://notebooklm.google.com/notebook/c95bcda1-39ef-4f5b-82c8-6b239dad2496)*
